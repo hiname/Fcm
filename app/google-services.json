@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "894391357451",
+    "firebase_url": "https://fafa-370f8.firebaseio.com",
+    "project_id": "fafa-370f8",
+    "storage_bucket": "fafa-370f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894391357451:android:fccddfa97548379b",
+        "android_client_info": {
+          "package_name": "com.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894391357451-ck2kuoc27acbjog8ernbmb3p4k73aqa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZfF9zVYRh5d6clWTv81eMHs61pZ1iVew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
